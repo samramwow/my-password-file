@@ -50,12 +50,12 @@
         <div id="protectedContent" class="hidden">
             <!-- Place your protected content here --> 
             <h3>Protected Content</h3>
-            <a href ="https://samramwow.github.io/cji01-database/index.html">enter.</a>
+            <a href ="https://samramwow.github.io/cji01-database/index.html">enter</a>
         </div>
     </div>
 
     <script>
-        const correctPassword = 'CJI01@8073'; // Set your desired password here
+        const correctPassword = 'Samramwow'; // Set your desired password here
 
         function checkPassword() {
             const enteredPassword = document.getElementById('password').value;
